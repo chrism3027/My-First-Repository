@@ -1,6 +1,6 @@
  h1{
             color: darkmagenta;   
         }
-       img{
+img{
             width: 400px;  
        }
